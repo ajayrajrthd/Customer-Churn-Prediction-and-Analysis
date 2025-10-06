@@ -171,7 +171,7 @@ elif option == 'Sales Trend Analysis':
         st.warning("Dataset does not have 'tenure' and/or 'MonthlyCharges' columns for sales analysis.")
 
     
-elif option == 'Key Performance Indicators for Churn Prediction':
+elif option == 'Key Performance Indicators':
     # Key Performance Indicators (KPIs)
     st.header("Key Performance Indicators (KPIs)")
 
